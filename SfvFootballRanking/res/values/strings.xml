@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SfvFootballRanking</string>
+    <string name="action_settings">Settings</string>
+    <string name="test">345</string>
+    <string name="test2">678</string>
+    <string name="region_Select">Regionalverband</string>
+    <string name="groupSelect">Gruppe wählen</string>
+    <string name="updateButton">Update</string>
+
+    <string-array name="region_array">
+        <item>Zentralschweiz</item>
+        <item>Nordwestschweiz</item>
+        <item>Tessin</item>
+        <item>Ostschweiz</item>
+    </string-array>
+    <string-array name="ageGroup_array">
+        <item>Junioren E</item>
+        <item>Junioren D/9</item>
+        <item>Junioren C 3. Stärkeklasse</item>
+        <item>Junioren C 2. Stärkeklasse</item>
+        <item>Junioren C 1. Stärkeklasse</item>
+    </string-array>
+    <string-array name="season_array">
+        <item>2009/2010</item>
+        <item>2010/2011</item>
+        <item>2011/2012</item>
+        <item>2012/2013</item>
+        <item>2013/2014</item>
+    </string-array>
+    <string-array name="url">
+        <item>http://www.ifv.ch/Innerschweizerischer-Fussballverband/Spielbetrieb-IFV/Meisterschaft-IFV.aspx/</item>
+    </string-array>
+    <string-array name="group_array">
+        <item>Stärkeklasse 1 - Frühjahrsrunde - Gruppe 3</item>
+        <item>Stärkeklasse 1 - Frühjahrsrunde - Gruppe 4</item>
+        <item>Stärkeklasse 1 - Frühjahrsrunde - Gruppe 5</item>
+        <item>Stärkeklasse 2 - Frühjahrsrunde - Gruppe 6</item>
+        <item>Stärkeklasse 3 - Frühjahrsrunde - Gruppe 17</item>
+    </string-array>
+    <string-array name="testArray">
+        <item>@string/test</item>
+        <item>@string/test2</item>
+    </string-array>
+
+    <string name="est">est</string>
+    <string name="tableRow1">tableRow1</string>
+    <string name="tableRow2">tableRow2</string>
+    <string name="tableRow3">tableRow3</string>
+    <string name="tableRow4">tableRow4</string>
+    <string name="title_activity_my_round_corner_drawable">MyRoundCornerDrawable</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_age_group_chooser">AgeGroupChooser</string>
+
+</resources>

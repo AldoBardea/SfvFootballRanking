@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="regionSelect">
+        <item>Aargauischer Fussballverband (AFV)</item>
+		<item>Fussballverband Bern/Jura (FVBJ)</item>
+		<item>Innerschweizerischer Fussballverband (IFV)</item>
+		<item>Fussballverband Nordwestschweiz (FVNWS)</item>
+		<item>Ostschweizer Fussballverband (OFV)</item>
+		<item>Solothurner Fussballverband (SOFV)</item>
+		<item>Fussballverband Region Zürich (FVRZ)</item>
+		<item>Federazione ticinese di calcio (FTC)</item>
+		<item>Freiburger Fussballverband (FFV)</item>
+		<item>Association cantonale genevoise de football (ACGF)</item>
+		<item>Association neuchâteloise de football (ANF)</item>
+		<item>Association cantonale vaudoise de football (ACVF)</item>
+		<item>Walliser Fussballverband (WFV)</item>
+
+    </string-array>
+    <string-array name="enterValues_regionSelect">
+		<item>/afv/de</item>
+		<item>/fvbj/de</item>
+		<item>/ifv/de</item>
+		<item>/fvnws/de</item>
+		<item>/ofv/de</item>
+		<item>/sofv/de</item>
+		<item>/fvrz/de</item>
+		<item>/ftc/de</item>
+		<item>/aff/de</item>
+		<item>/acgf/de</item>
+		<item>/anf/de</item>
+		<item>/acvf/de</item>
+		<item>/avf/de</item>
+
+    </string-array>
+    
+</resources>
